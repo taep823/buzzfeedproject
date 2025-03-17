@@ -7,6 +7,9 @@ h1 {
     display: flex;
     justify-content: center;
     align-content: center;
+    font-family: "Rowdies", sans-serif;
+  font-weight: 400;
+  font-style: normal;
   }
 
   .height{
@@ -17,9 +20,11 @@ h1 {
 
   .power{
     color:#ffe3cbff;
+    font-weight: 100;
    
   }
   .quiz {
     color: #f9c1ceff;
-    font-weight: 100;
+  
+    
   }
