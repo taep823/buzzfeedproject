@@ -1,3 +1,25 @@
+* {
+    background-color: #6bd0eeff;
+}
+
 h1 {
-    color:red;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+  }
+
+  .height{
+    color: #ffe3cbff;
+    
+    
+  }
+
+  .power{
+    color:#ffe3cbff;
+   
+  }
+  .quiz {
+    color: #f9c1ceff;
+    font-weight: 100;
   }
