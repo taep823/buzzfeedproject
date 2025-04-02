@@ -1,5 +1,6 @@
 * {
     background-color: #6bd0eeff;
+
 }
 
 h1 {
@@ -10,6 +11,7 @@ h1 {
     font-family: "Rowdies", sans-serif;
   font-weight: 400;
   font-style: normal;
+  padding: 1%;
   }
 
   .height{
@@ -27,6 +29,13 @@ h1 {
     color: #f9c1ceff;
     
     
+  }
+
+
+  .setup{
+    display: flex;
+    justify-content: center;
+ 
   }
   
   
