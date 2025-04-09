@@ -4,7 +4,7 @@
 }
 
 h1 {
-    color:white;
+    color:#ffe3cbff;
     display: flex;
     justify-content: center;
     align-content: center;
@@ -12,22 +12,23 @@ h1 {
   font-weight: 400;
   font-style: normal;
   padding: 1%;
+  
   }
 
   .height{
     color: #ffe3cbff;
-    
+    font-family: "Changa One", sans-serif;
     
   }
 
   .power{
-    color:#ffe3cbff;
+    color: #ffe3cbff;
     font-weight: 100;
-   
+    font-family: "Changa One", sans-serif;
   }
   .quiz {
     color: #f9c1ceff;
-    
+    font-family: "Changa One", sans-serif;
     
   }
 
@@ -35,7 +36,16 @@ h1 {
   .setup{
     display: flex;
     justify-content: center;
+    flex-direction: column;
  
   }
   
-  
+
+button{height:40px;}
+  button{width:110px;}
+  input{height:60px}
+  input{width: 300px;}
+  button{font-size: 30px;}
+  input{font-size:20px;}
+  hr{color:#f26f27ff;}
+  input{background-color: ;}
