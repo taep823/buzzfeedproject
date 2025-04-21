@@ -16,18 +16,18 @@ h1 {
   }
 
   .height{
-    color: #ffe3cbff;
+    color: #f26f27ff;
     font-family: "Changa One", sans-serif;
     
   }
 
   .power{
-    color: #ffe3cbff;
+    color: #f26f27ff;
     font-weight: 100;
     font-family: "Changa One", sans-serif;
   }
   .quiz {
-    color: #f9c1ceff;
+    color: #ffe3cbff;
     font-family: "Changa One", sans-serif;
     
   }
@@ -48,4 +48,4 @@ button{height:40px;}
   button{font-size: 30px;}
   input{font-size:20px;}
   hr{color:#f26f27ff;}
-  input{background-color: ;}
+  button{background-color:#f26f27ff;}
